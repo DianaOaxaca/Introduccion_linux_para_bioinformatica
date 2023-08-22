@@ -487,6 +487,12 @@ Pero otra vez son muchos, hagamos un ciclo for para esto:
 for gz in $(ls *.gz); do md5sum $gz ; done
 ```
 
+Podemos verlo con **`zless`** 
+
+```bash
+zless SRR9849602_1.fastq.gz
+```
+
 **Listo!!!** tenemos los datos para el análisis de amplicones.
 
 
