@@ -1,6 +1,6 @@
 ## Introducción a linux para bioinformática
 
-**NOTA_1** Puedes copiar cada bloque de código dando click en el botón derecho en cada recuadro
+**NOTA Puedes copiar cada bloque de código dando click en el botón derecho en cada recuadro**
 
 ### Conexión al servidor
 
