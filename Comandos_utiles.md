@@ -1,5 +1,7 @@
 ## Introducción a linux para bioinformática
 
+**NOTA_1** Puedes copiar cada bloque de código dando click en el botón derecho en cada recuadro
+
 ### Conexión al servidor
 
 ```shell
@@ -39,7 +41,7 @@ man ls
 
 Recordemos como está estructurado nuestro sistema de ficheros.
 
-<img src="/Users/diana/Documents/Hackeando Comunidades Microbianas/Practicas/Bash/Sistema_de_ficheros.jpg" alt="Sistema_de_ficheros" style="zoom:50%;" />
+<img src="https://github.com/DianaOaxaca/Introduccion_linux_para_bioinformatica/blob/main/Sistema_de_ficheros.jpg" alt="Sistema_de_ficheros" style="zoom:50%;" />
 
 
 
@@ -349,7 +351,7 @@ cd amplicones/data
 
 Con **`scp`** podemos hacer copias de la computadora al servidor y visceversa.
 
-Sitúate en la terminal de tu máquina local:
+Sitúate en la terminal de tu máquina local, justo en el directorio donde se encuentra el archivo que acabamos de descargar:
 
 ```bash
 #Para subir archivos
