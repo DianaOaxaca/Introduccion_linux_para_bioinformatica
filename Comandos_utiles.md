@@ -4,7 +4,7 @@
 
 ```shell
 ssh diana@132.248.15.30 -p 7915 -o ServerAliveInterval=60
-PSW
+
 ```
 
 ¿En dónde estamos y quiénes somos?
