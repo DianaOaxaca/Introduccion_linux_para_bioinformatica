@@ -1,4 +1,4 @@
-# Introduccion_linux_para_bioinformatica
+# Introducción_linux_para_bioinformática
 
 Repositorio para la práctica de introducción a linux para la bioinformática de la clase de **Hakeando las comunidades microbianas**
 
