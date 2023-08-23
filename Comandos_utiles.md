@@ -405,6 +405,8 @@ wc -l reporte.txt
 
  **grep** nos ayuda a buscar el patrón de texto en cada línea dentro del archivo.
 
+ > - [x] Averigua en la ayuda de grep que hacen las banderas `--color` `-c` `-v`
+
 ```bash
 grep --color 'its' reporte.txt
 ```
@@ -423,7 +425,7 @@ grep -c -v 'its' reporte.txt
 
 La información que necesitamos para descargar los fastq son: el nombre de la muestra y la liga de descarga. Esta información se encuentra en las columnas `experiment_title` y `fastq_ftp` que son la tercer y sexta columna.
 
-**`cut`** nos ayuda a obtener columnas de un archivo
+**`cut`** nos ayuda a obtener columnas de un archivo indicando el número de columna con -f
 
 ```bash
 cut -f3,6 reporte.txt
